@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/COURSEworkORM/COURSEworkORM/out/production/COURSEworkORM/lk/ijse/ormvishmi/lib/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/COURSEworkORM/COURSEworkORM/out/production/COURSEworkORM/lk/ijse/ormvishmi/lib/jfoenix-8.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/COURSEworkORM/COURSEworkORM/out/production/COURSEworkORM/lk/ijse/ormvishmi/lib/mysql-connector-java-8.0.25 - Copy - Copy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
